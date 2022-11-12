@@ -1,5 +1,4 @@
-//Kanika Warman - mf1513
-//Mid-term, Question 2
+
 //Ask the user a puzzle and respond if it is correct or not
 
 package main
