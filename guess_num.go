@@ -1,5 +1,5 @@
-// Kanika Warman - mf1513
-// Assignment 3 - Guess the number guess_num.go
+
+//  Guess the number game. 
 package main
 
 import (
