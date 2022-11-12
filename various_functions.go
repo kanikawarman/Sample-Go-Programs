@@ -1,5 +1,4 @@
-// Kanika Warman - mf1513
-// CS 311: Assignment 1
+
 
 package main
 
