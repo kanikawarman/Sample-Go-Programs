@@ -1,4 +1,4 @@
-This program does a directory search, listing all line numbers for each file with a specific string using goroutines and channels.
+//This program does a directory search, listing all line numbers for each file with a specific string using goroutines and channels.
 
 package main
 
