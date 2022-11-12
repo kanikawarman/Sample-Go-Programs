@@ -1,4 +1,4 @@
-//Kanika Warman - mf1513
+
 //Pair up the elements and return a slice of bool -- true if the value from the first slice is less than the value from the second slice, false otherwise
 
 package main
