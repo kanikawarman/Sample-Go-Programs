@@ -1,5 +1,5 @@
-// Kanika Warman - mf1513
-//Assignment 6 - client interface --> a simple command-line user interface that will use the service to make bids on items for sale
+
+//client interface --> a simple command-line user interface that will use the service to make bids on items for sale
 
 package main
 
