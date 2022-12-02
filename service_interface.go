@@ -1,5 +1,5 @@
-// Kanika Warman - mf1513
-//Assignment 6 - service interface --> a simple a simple service to support auctions of client interface
+
+//service interface --> a simple a simple service to support auctions of client interface
 
 package main
 
