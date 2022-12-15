@@ -1,5 +1,4 @@
-// Kanika Warman - mf1513
-//Assignment 7 - service interface --> a simple service to support client payments and account balance checking
+service interface --> a simple service to support client payments and account balance checking
 
 package main
 
